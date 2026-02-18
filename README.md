@@ -1,4 +1,4 @@
-# photopraphy-
+# photography-
 wedding photos 
 
 <!DOCTYPE html>
